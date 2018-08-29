@@ -1,0 +1,27 @@
+SHIFT_DATE,SHIFT,OFFENSE_ID,DESCRIPTION,ANALYST,STATUS,SUBSTATUS,,,,Assigned to GIT
+10/7/2013,C,18001,CIT-SOP-007:OD_CUSTOMER_IDS_ALERT: Exploit/Malware event detected single host with matching alert QID from OnDemand Customer Routable IP,Bernardo,Open,,,,,Assigned to PDIT
+10/9/2013,A,18002,SIEM-SOP-015: AuditVault - User modification change offense containing ALTER USER-success,Bernardo,Open,,,,,Assigned to queue_CITRM
+10/6/2013,A,18003,CIT: Multiple Exploit/Malware Types Targeting a Single Source containing HTTP: IIS htr Obtain Code,Bernardo,Open,,,,,Assigned to queue_mon_CIT
+,,,,,,,,,,Assigned to instructed individual
+,,,,,,,,,,Assigned to self
+,,,,,,,,,,Escalated to L2
+,,,,,,,,,,Escalated to SA
+,,,,,,,,,,Escalated to SDM
+,,,,,,,,,,Escalated for Tuning
+,,,,,,,,,,Others
+,,,,,,,,,,
+,,,,,,,,,,Open
+,,,,,,,,,,Closed
+,,,,,,,,,,
+,,,,,,,,,,Aldo
+,,,,,,,,,,Bernardo
+,,,,,,,,,,Ivan
+,,,,,,,,,,Nazeer
+,,,,,,,,,,Rakesh
+,,,,,,,,,,Neha
+,,,,,,,,,,Srini
+,,,,,,,,,,Suresh
+,,,,,,,,,,
+,,,,,,,,,,A
+,,,,,,,,,,B
+,,,,,,,,,,C

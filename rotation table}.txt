@@ -1,0 +1,6 @@
+id
+date
+shift (a,b,c, Off, g
+analyst
+resource (S (IDS/SIEM), N(Network resource), NS (Single resource to cover both IDS/SIEM & Network))
+

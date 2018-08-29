@@ -1,0 +1,12 @@
+FIRST_NAME	LAST_NAME	BIRTHDATE	RELATION	GENDER	RELATIVE_ID
+Peter	Claver	06/12/80	Son	M	Blake
+Pierre	Claver	07/12/83	Son	M	Blake
+Peter	Phil	08/12/80	Son	M	Ward
+Sally	Pierre	09/12/89	Daughter	f	Pierre
+Chris	Jacques	10/5/99	Daughter	F	Clark
+Merry	Claude	02/22/97	Daughter	f	CLAUDE
+Maria	Francois	04/1/97	Daughter	f	TURNER
+Frank	Francoise	12/12/85	Son	m	Ford
+Mel	Peter	04/15/76	Son	M	Ward
+Rob	Claver	09/24/92	Son	m	Blake
+Bill	Allen	06/17/75	Son	m	Allen

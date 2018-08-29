@@ -1,0 +1,6 @@
+FIRST_NAME	LAST_NAME	BIRTHDAY	RELATION	GENDER	RELATIVE_ID
+Merry	Claude	02/22/97	Daughter	f	King
+Sandy	Peter	04/15/76	Daughter	F	Ward
+Rob	Claver	09/24/94	Son	m	Blake
+Charlie	Allen	06/17/75	Son	m	Ford
+David	Smith	8/2/96	Son	M	Clark

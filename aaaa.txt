@@ -1,0 +1,1 @@
+select firstname, lastname, email, workphone, cellphone, oncallresource from ISS_ONCALL, ISS_ANALYST WHERE ISS_ONCALL.ANALYSTID = ISS_ANALYST= ANALYSTID AND ONCALLDATE LIKE SYSDATE

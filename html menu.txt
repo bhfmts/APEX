@@ -1,0 +1,51 @@
+<div id='cssmenu'>
+<ul>
+   <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:1'><span>About CIT Network</span></a></li>
+   <li class='has-sub'><a href='#'><span>NSOC Central</span></a>
+      <ul>
+         <li class='has-sub'><a href='#'><span>Major Incidents</span></a>
+            <ul>
+               <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:41'><span>Create New Incident</span></a></li>
+               <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:50'><span>Create New RCCA</span></a></li>
+               <li class='last'><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:41'><span>Current & Past Incidents reports</span></a></li>
+            </ul>
+         </li>
+         <li class='has-sub'><a href='#'><span>SRs & RFCs</span></a>
+            <ul>
+               <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:222'><span>GMP Cap. SR Mgmt all open Report</span></a></li>
+               <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:171'><span>MOS Report</span></a></li>
+               <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:174'><span>MyHelp Report</span></a></li>
+               <li class='last'><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:128'><span>RFC Report</span></a></li>
+            </ul>
+         </li>
+         <li class='has-sub'><a href='#'><span>IDS / SIEM</span></a>
+            <ul>
+               <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:182'><span>Escalated Offenses</span></a></li>
+               <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:208'><span>Offenses</span></a></li>
+               <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:186'><span>Sensor Issues</span></a></li>
+               <li class='last'><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:219'><span>TO Report</span></a></li>
+            </ul>
+         </li>
+         <li class='has-sub'><a href='#'><span>Decomm</span></a>
+            <ul>
+               <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:213'><span>FW Decomm all open report</span></a></li>
+               <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:119'><span>SEMS Decomm all open report</span></a></li>
+               <li class='last'><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:221'><span>Switch Decomm all open report</span></a></li>
+            </ul>
+         </li>
+         <li class='has-sub'><a href='#'><span>Reporting Metrics</span></a>
+            <ul>
+               <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:172'><span>MOS</span></a></li>
+               <li><a href='#'><span>MyHelp</span></a></li>
+               <li class='last'><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:112'><span>RFC</span></a></li>
+            </ul>
+         </li>
+         <li><a href='https://apex.oraclecorp.com/pls/apex/f?p=13594:112' target='_blank'><span>Process KM Docs</span></a></li>
+         <li class='last'><a href='https://apex.oraclecorp.com/pls/apex/f?p=16240:1'><span>Schedule Coverage</span></a></li>
+      </ul>
+   </li>
+   <li><a href='#'><span>Provisioning Central</span></a></li>
+   <li><a href='#'><span>Net Services Central</span></a></li>
+   <li class='last'><a href='#'><span>Rapid response Central</span></a></li>
+</ul>
+</div>
